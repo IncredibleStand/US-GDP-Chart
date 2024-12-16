@@ -1,0 +1,22 @@
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .bar {
+            fill: steelblue;
+        }
+        .axis text {
+            font-size: 12px;
+        }
+        #tooltip {
+            position: absolute;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        .bar:hover {
+            fill: lightgreen;
+        }
+        text {
+            font-weight: bold;
+        }
